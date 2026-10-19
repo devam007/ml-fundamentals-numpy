@@ -1,0 +1,26 @@
+{
+  "seed": 42,
+  "python": "3.12.8",
+  "numpy": "2.5.4",
+  "sklearn": "1.9.1",
+  "results": {
+    "linear_regression": {
+      "numpy_test_mse": 21.945248728771677,
+      "sklearn_test_mse": 21.945248728771638
+    },
+    "logistic_regression": {
+      "numpy_test_accuracy": 0.9666666666666667,
+      "sklearn_test_accuracy": 0.9466666666666667
+    },
+    "knn": {
+      "numpy_test_accuracy": 0.9466666666666667,
+      "sklearn_test_accuracy": 0.9466666666666667
+    },
+    "kmeans": {
+      "numpy_inertia": 277.76118005096237,
+      "sklearn_inertia": 277.76118005096237,
+      "agreement_ari": 1.0,
+      "note": "Clustering fit comparison on the full synthetic dataset; not a held-out score."
+    }
+  }
+}
