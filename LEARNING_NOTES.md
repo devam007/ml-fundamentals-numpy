@@ -36,5 +36,4 @@ Explain why empty clusters and duplicate points require a defined behavior.
 4. Identify which arrays are training data and which are held out.
 5. Add a useful feature yourself and document the before/after behavior.
 
-The initial code and documentation were prepared with Codex assistance. Record
-your subsequent independent experiments and explanations here with dates.
+Record subsequent experiments, modifications, and explanations here with dates.

@@ -3,8 +3,8 @@
 Four classical machine-learning algorithms implemented with NumPy, with executable
 comparisons against scikit-learn and tests for mathematical and API behavior.
 
-This is an educational project built with AI assistance. The implementations favor
-readability and expose their limitations. Scikit-learn is used as a reference in
+This educational project favors readable implementations with explicit
+limitations. Scikit-learn is used as a reference in
 experiments and tests, not inside the NumPy estimators.
 
 ## Implementations
